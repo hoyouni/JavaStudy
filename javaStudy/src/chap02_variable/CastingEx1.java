@@ -1,4 +1,4 @@
-package chap02;
+package chap02_variable;
 
 // 형변환 Casting
 public class CastingEx1 {

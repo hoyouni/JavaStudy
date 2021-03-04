@@ -1,4 +1,4 @@
-package chap02;
+package chap02_variable;
 
 import java.util.Scanner;
 

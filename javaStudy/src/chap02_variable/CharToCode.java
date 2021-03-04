@@ -1,4 +1,4 @@
-package chap02;
+package chap02_variable;
 
 public class CharToCode {
 	public static void main(String[] args) {

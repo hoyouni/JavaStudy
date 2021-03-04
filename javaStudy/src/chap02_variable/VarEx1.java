@@ -1,4 +1,4 @@
-package chap02;
+package chap02_variable;
 
 /*
  *  1. 변수
