@@ -9,17 +9,22 @@ interface Attackable {
 }
 
 interface Fightable extends Movable, Attackable {
-
-	@Override
-	default void attack() {
-	}
-
-	@Override
-	default void move(int x, int y) {
-	}
 	
 }
 
+class Fighter implements Fightable {
+
+	@Override
+	public void attack() {
+		
+	}
+
+	@Override
+	public void move(int x, int y) {
+		
+	}
+	
+}
 
 
 
